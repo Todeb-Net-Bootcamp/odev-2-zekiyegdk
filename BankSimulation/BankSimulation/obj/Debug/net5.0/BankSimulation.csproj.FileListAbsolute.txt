@@ -1,0 +1,16 @@
+C:\Users\zkyeg\Desktop\Todeb-Homework\BankSimulation\BankSimulation\bin\Debug\net5.0\BankSimulation.exe
+C:\Users\zkyeg\Desktop\Todeb-Homework\BankSimulation\BankSimulation\bin\Debug\net5.0\BankSimulation.deps.json
+C:\Users\zkyeg\Desktop\Todeb-Homework\BankSimulation\BankSimulation\bin\Debug\net5.0\BankSimulation.runtimeconfig.json
+C:\Users\zkyeg\Desktop\Todeb-Homework\BankSimulation\BankSimulation\bin\Debug\net5.0\BankSimulation.runtimeconfig.dev.json
+C:\Users\zkyeg\Desktop\Todeb-Homework\BankSimulation\BankSimulation\bin\Debug\net5.0\BankSimulation.dll
+C:\Users\zkyeg\Desktop\Todeb-Homework\BankSimulation\BankSimulation\bin\Debug\net5.0\ref\BankSimulation.dll
+C:\Users\zkyeg\Desktop\Todeb-Homework\BankSimulation\BankSimulation\bin\Debug\net5.0\BankSimulation.pdb
+C:\Users\zkyeg\Desktop\Todeb-Homework\BankSimulation\BankSimulation\obj\Debug\net5.0\BankSimulation.csproj.AssemblyReference.cache
+C:\Users\zkyeg\Desktop\Todeb-Homework\BankSimulation\BankSimulation\obj\Debug\net5.0\BankSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zkyeg\Desktop\Todeb-Homework\BankSimulation\BankSimulation\obj\Debug\net5.0\BankSimulation.AssemblyInfoInputs.cache
+C:\Users\zkyeg\Desktop\Todeb-Homework\BankSimulation\BankSimulation\obj\Debug\net5.0\BankSimulation.AssemblyInfo.cs
+C:\Users\zkyeg\Desktop\Todeb-Homework\BankSimulation\BankSimulation\obj\Debug\net5.0\BankSimulation.csproj.CoreCompileInputs.cache
+C:\Users\zkyeg\Desktop\Todeb-Homework\BankSimulation\BankSimulation\obj\Debug\net5.0\BankSimulation.dll
+C:\Users\zkyeg\Desktop\Todeb-Homework\BankSimulation\BankSimulation\obj\Debug\net5.0\ref\BankSimulation.dll
+C:\Users\zkyeg\Desktop\Todeb-Homework\BankSimulation\BankSimulation\obj\Debug\net5.0\BankSimulation.pdb
+C:\Users\zkyeg\Desktop\Todeb-Homework\BankSimulation\BankSimulation\obj\Debug\net5.0\BankSimulation.genruntimeconfig.cache
